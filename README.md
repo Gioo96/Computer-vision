@@ -1,5 +1,5 @@
 # Computer vision
-Laboratories and final project of CV
+Laboratories and final project of CV.
 ## LAB 1 
 Introduction to OpenCV, image loading, pixel manipulation, the RGB and HSV color spaces\
 [Lab_1.pdf](https://github.com/Gioo96/Computer-vision/files/10149242/Lab1.pdf)
